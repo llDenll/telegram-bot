@@ -1,8 +1,8 @@
 print(".")
 
 
-def string():
-    print('Якщо ти не носиш string, то це ганьба')
+def strings():
+    print('Якщо ти не носиш strings, то це ганьба')
 
 
-string()
+strings()
